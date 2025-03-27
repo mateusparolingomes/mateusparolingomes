@@ -18,17 +18,17 @@ Currently pursuing my **Master’s in Business Analytics** at Hult International
 ## 🧠 Technical Skills
 
 **Languages & Tools:**  
-`Python` · `SQL` · `R` · `Excel VBA` · `Power BI` · `Tableau` · `AWS QuickSight`  
-`Snowflake` · `SAP` · `Alteryx` · `GitHub`
+`Python` · `SQL` · `R` · `Power BI` · `Tableau` · `Alteryx`  
+`Snowflake` · `SAP` · `GitHub` · `HTML` · `Dataiku` · `Excel VBA` · `SAP SE` · `AWS Quicksight`
 
 **Libraries & Frameworks:**  
 `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `Plotly`  
 `BeautifulSoup` · `Selenium` · `Tidyverse` · `randomForest`  
 
 **Core Competencies:**  
-Data Analysis · Data Engineering · Data Modeling · Data Visualization  
+Data Analysis · Data Engineering · Data Visualization  
 ETL · Machine Learning · Statistical Analysis · Process Automation  
-Cloud Computing · Project Management · Leadership · Team Collaboration
+Cloud Computing
 
 ---
 
