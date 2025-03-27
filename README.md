@@ -54,11 +54,10 @@ Built two interactive dashboards for Brazilian clients to support performance tr
 
 ---
 
-### 🧪 User Engagement Strategy – Dognition (Tableau)
-**[Tableau Public](https://public.tableau.com/app/profile/mateusparolingomes)**  
-**[GitHub Repo](https://github.com/mateusparolingomes/dognition-final)**  
-Developed a strategy to increase test completions through user funnel analysis and actionable business recommendations.  
-**Tools:** Tableau, SQL, Storyboarding
+### ✈️ Airline On-Time Performance Analysis (SQL & Power BI)
+**[GitHub Repo](https://github.com/mateusparolingomes/airline-on-time-performance-analysis)**  
+Analyzed flight delay trends across major U.S. airlines (2023–2024) to identify patterns in aircraft age, time of day, and weather-related issues. Combined SQL queries and Power BI dashboards to deliver actionable insights and recommendations for improving airline efficiency.  
+**Tools:** Power BI, SQL, Excel, FAA Data, Data Modeling
 
 ---
 
