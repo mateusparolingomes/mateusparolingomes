@@ -26,15 +26,15 @@ Currently pursuing my **Master’s in Business Analytics** at Hult International
 `BeautifulSoup` · `Selenium` · `Tidyverse` · `randomForest`  
 
 **Core Competencies:**  
-Data Analysis · Data Engineering · Data Visualization  
-ETL · Machine Learning · Statistical Analysis · Process Automation  
-Cloud Computing
+`Data Analysis` · `Data Engineering` · `Data Visualization`  
+`ETL` · `Machine Learning` · `Statistical Analysis` · `Process Automation`  
+`Cloud Computing`
 
 **Languages**  
-English  
-Portuguese  
-Italian  
-French  
+`English`   
+`Portuguese`    
+`Italian`    
+`French`
 
 ---
 
