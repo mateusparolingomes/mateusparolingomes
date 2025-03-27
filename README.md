@@ -47,10 +47,10 @@ Analyzed global health and economic development over time using the Gapminder da
 
 ---
 
-### 🌍 Natural Hazard Dashboard (Power BI)
-**[GitHub Repo](https://github.com/mateusparolingomes/natural-hazards-dashboard)**  
-Power BI dashboard for risk analysis across 5 countries to support international business expansion for Eoliann.  
-**Focus:** CRAP design principles, risk trends, geospatial mapping
+### 📍 Retail & Market Expansion Dashboards (Power BI – Brazil)
+**[GitHub Repo](https://github.com/mateusparolingomes/brazilian-market-dashboards-powerbi)**  
+Built two interactive dashboards for Brazilian clients to support performance tracking and expansion strategy. One tracked revenue and store KPIs for Bolo Lá Dcasa (a cake shop franchise), while the other assessed market viability for TOC Digital’s growth into new cities.  
+**Tools:** Power BI, Excel, Geospatial Mapping, Data Modeling
 
 ---
 
