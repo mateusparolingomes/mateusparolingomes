@@ -19,7 +19,7 @@ Currently pursuing my **Master’s in Business Analytics** at Hult International
 
 **Languages & Tools:**  
 `Python` · `SQL` · `R` · `Power BI` · `Tableau` · `Alteryx`  
-`Snowflake` · `SAP` · `GitHub` · `HTML` · `Dataiku` · `Excel VBA` · `SAP SE` · `AWS Quicksight`
+`Snowflake` · `SAP` · `GitHub` · `HTML` · `Dataiku` · `Azure` · `AWS` · `Excel VBA`
 
 **Libraries & Frameworks:**  
 `Pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Scikit-learn` · `Plotly`  
