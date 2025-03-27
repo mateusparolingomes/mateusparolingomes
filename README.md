@@ -31,10 +31,10 @@ ETL · Machine Learning · Statistical Analysis · Process Automation
 Cloud Computing
 
 **Languages**
-English
-Portuguese
-Italian
-French
+English  
+Portuguese  
+Italian  
+French  
 
 ---
 
