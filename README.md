@@ -40,10 +40,10 @@ Currently pursuing my **Master’s in Business Analytics** at Hult International
 
 ## 🚀 Featured Projects
 
-### 🔍 ESG & DEIB Analysis using KNN
-**[GitHub Repo](https://github.com/mateusparolingomes/esg-deib-knn)**  
-Machine learning classification of ESG and Social Scores across industries, with ethical considerations around diversity and fairness.  
-**Tools:** Python, Scikit-learn, Matplotlib, Pandas
+### 🌐 Global Insights from Gapminder (R)
+**[GitHub Repo](https://github.com/mateusparolingomes/gapminder-global-insights-r)**  
+Analyzed global health and economic development over time using the Gapminder dataset. Created histograms, ridge plots, and violin-box combos to visualize GDP per capita and life expectancy, highlighting regional disparities and trends from 1952 to 2007.  
+**Tools:** R, ggplot2, ggridges, gghalves, tidyverse
 
 ---
 
