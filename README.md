@@ -1,9 +1,9 @@
 # 👋 Hi there, I'm Mateus Parolin Gomes
 
 🚀 Data Analyst | Data Engineer  
-📫 mateus.parolingomes@gmail.com | [LinkedIn](https://www.linkedin.com/in/mateusparolingomes/) | [GitHub](https://github.com/mateusparolingomes)  
 📍 Boston, MA  
-🎯 Open to work across the U.S. in **Data Analyst** or **Data Engineer** roles.
+🎯 Open to work across the U.S. in **Data Analyst** or **Data Engineer** roles  
+📫 mateus.parolingomes@gmail.com | [LinkedIn](https://www.linkedin.com/in/mateusparolingomes/) | [GitHub](https://github.com/mateusparolingomes)  
 
 ---
 
