@@ -30,7 +30,7 @@ Data Analysis · Data Engineering · Data Visualization
 ETL · Machine Learning · Statistical Analysis · Process Automation  
 Cloud Computing
 
-**Languages**
+**Languages**  
 English  
 Portuguese  
 Italian  
