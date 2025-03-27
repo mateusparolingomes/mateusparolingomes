@@ -9,7 +9,7 @@
 
 ## 💡 About Me
 
-I’m a data-driven problem solver with 5 years of experience turning raw data into actionable insights. From global corporations to social startups, I’ve leveraged analytics, engineering, and visualization tools to drive strategic business decisions.
+I am a Data Analyst (certified by IBM) with 5 years of experience leveraging analytics, data engineering, and visualization tools to support business decision-making. Proven ability to optimize data workflows, automate reporting, and deliver data-driven insights for multinational organizations.
 
 Currently pursuing my **Master’s in Business Analytics** at Hult International Business School in Boston, I’m seeking full-time opportunities in **Data Analytics** or **Data Engineering** across the U.S.
 
