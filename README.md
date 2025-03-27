@@ -61,9 +61,11 @@ Analyzed flight delay trends across major U.S. airlines (2023–2024) to identif
 
 ---
 
-### 🧠 Fraud Detection & Audit Automation (ExxonMobil)
-Proactively reduced fraud risk by building a machine learning model to score employee-vendor relationships, integrating it into a Power BI dashboard for auditors.  
-**Tools:** Python, SQL, Power BI, SAP, Snowflake
+### 📈 Investment Portfolio Analysis (Tableau)
+**[GitHub Repo](https://github.com/mateusparolingomes/investment-portfolio-analysis-tableau)**  
+**[Tableau Dashboard](https://public.tableau.com/app/profile/mateus.gomes5214/viz/A1FinalDashboard/Dashboard)**  
+Analyzed a 25-month investment portfolio using SQL and Tableau. Assessed risk-return profiles, asset class allocation, historical performance, and top/bottom tickers. Delivered strategic insights to rebalance high-risk assets and diversify holdings based on financial theory.  
+**Tools:** Tableau, SQL, Data Modeling, Portfolio Theory
 
 ---
 
