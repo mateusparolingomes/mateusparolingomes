@@ -87,13 +87,13 @@ Built two interactive dashboards for Brazilian clients to support performance tr
 
 - 💰 **$12M Cost Savings:** Built a Tableau dashboard to track travel expenses, analyze trends, and optimize traveler behavior with automated KPI reporting.
 
-- ⏱️ **50% Faster Data Processing:** Integrated a new travel vendor’s data into local databases, streamlining storage, validation, and analysis workflows using SQL.
-
 - 🧠 **ML-Powered Fraud Detection:** Developed a Python-based machine learning model to score employee-vendor relationships, integrating results into Power BI for real-time investigation.
+
+- 📈 **15 Years of Data Reconciled:** Increased financial data accuracy by matching and validating historical SAP acquisition records from SQL Server into Snowflake.
 
 - 🔍 **20M+ Transactions Audited:** Automated compliance validation using Power BI dashboards with SQL and Python, enabling proactive risk mitigation before audits.
 
-- 📈 **15 Years of Data Reconciled:** Increased financial data accuracy by matching and validating historical SAP acquisition records from SQL Server into Snowflake.
+- ⏱️ **50% Faster Data Processing:** Integrated a new travel vendor’s data into local databases, streamlining storage, validation, and analysis workflows using SQL.
 
 ---
 
