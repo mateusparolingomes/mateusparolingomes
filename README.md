@@ -47,10 +47,10 @@ Designed a dynamic dashboard to monitor personal living expenses in Boston. Buil
 
 ---
 
-### 🌐 Global Insights from Gapminder (R)
-**[GitHub Repo](https://github.com/mateusparolingomes/gapminder-global-insights-r)**  
-Analyzed global health and economic development over time using the Gapminder dataset. Created histograms, ridge plots, and violin-box combos to visualize GDP per capita and life expectancy, highlighting regional disparities and trends from 1952 to 2007.  
-**Tools:** R, ggplot2, ggridges, gghalves, tidyverse
+### 🏘️ Real Estate Price Analysis (Python)
+**[GitHub Repo](https://github.com/mateusparolingomes/real-estate-price-analysis-python)**  
+Performed exploratory data analysis on Taiwan real estate transactions to uncover trends and correlations in housing prices. Analyzed relationships between price and variables such as distance to MRT station, house age, and number of stores.  
+**Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 ---
 
@@ -66,6 +66,13 @@ Analyzed a 25-month investment portfolio using SQL and Tableau. Assessed risk-re
 **[GitHub Repo](https://github.com/mateusparolingomes/airline-on-time-performance-analysis)**  
 Analyzed flight delay trends across major U.S. airlines (2023–2024) to identify patterns in aircraft age, time of day, and weather-related issues. Combined SQL queries and Power BI dashboards to deliver actionable insights and recommendations for improving airline efficiency.  
 **Tools:** Power BI, SQL, Excel, FAA Data, Data Modeling
+
+---
+
+### 🌐 Global Insights from Gapminder (R)
+**[GitHub Repo](https://github.com/mateusparolingomes/gapminder-global-insights-r)**  
+Analyzed global health and economic development over time using the Gapminder dataset. Created histograms, ridge plots, and violin-box combos to visualize GDP per capita and life expectancy, highlighting regional disparities and trends from 1952 to 2007.  
+**Tools:** R, ggplot2, ggridges, gghalves, tidyverse
 
 ---
 
