@@ -62,17 +62,17 @@ Analyzed a 25-month investment portfolio using SQL and Tableau. Assessed risk-re
 
 ---
 
-### 📍 Retail & Market Expansion Dashboards (Power BI – Brazil)
-**[GitHub Repo](https://github.com/mateusparolingomes/brazilian-market-insights-dashboards)**  
-Built two interactive dashboards for Brazilian clients to support performance tracking and expansion strategy. One tracked revenue and store KPIs for Bolo Lá Dcasa (a cake shop franchise), while the other assessed market viability for TOC Digital’s growth into new cities.  
-**Tools:** Power BI, Excel, Geospatial Mapping, Data Modeling
-
----
-
 ### ✈️ Airline On-Time Performance Analysis (SQL & Power BI)
 **[GitHub Repo](https://github.com/mateusparolingomes/airline-on-time-performance-analysis)**  
 Analyzed flight delay trends across major U.S. airlines (2023–2024) to identify patterns in aircraft age, time of day, and weather-related issues. Combined SQL queries and Power BI dashboards to deliver actionable insights and recommendations for improving airline efficiency.  
 **Tools:** Power BI, SQL, Excel, FAA Data, Data Modeling
+
+---
+
+### 📍 Retail & Market Expansion Dashboards (Power BI – Brazil)
+**[GitHub Repo](https://github.com/mateusparolingomes/brazilian-market-insights-dashboards)**  
+Built two interactive dashboards for Brazilian clients to support performance tracking and expansion strategy. One tracked revenue and store KPIs for Bolo Lá Dcasa (a cake shop franchise), while the other assessed market viability for TOC Digital’s growth into new cities.  
+**Tools:** Power BI, Excel, Geospatial Mapping, Data Modeling
 
 ---
 
