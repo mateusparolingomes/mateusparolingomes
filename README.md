@@ -54,6 +54,14 @@ Analyzed global health and economic development over time using the Gapminder da
 
 ---
 
+### 📈 Investment Portfolio Analysis (Tableau)
+**[GitHub Repo](https://github.com/mateusparolingomes/investment-portfolio-analysis-tableau)**  
+**[Tableau Dashboard](https://public.tableau.com/app/profile/mateus.gomes5214/viz/A1FinalDashboard/Dashboard)**  
+Analyzed a 25-month investment portfolio using SQL and Tableau. Assessed risk-return profiles, asset class allocation, historical performance, and top/bottom tickers. Delivered strategic insights to rebalance high-risk assets and diversify holdings based on financial theory.  
+**Tools:** Tableau, SQL, Data Modeling, Portfolio Theory
+
+---
+
 ### 📍 Retail & Market Expansion Dashboards (Power BI – Brazil)
 **[GitHub Repo](https://github.com/mateusparolingomes/brazilian-market-insights-dashboards)**  
 Built two interactive dashboards for Brazilian clients to support performance tracking and expansion strategy. One tracked revenue and store KPIs for Bolo Lá Dcasa (a cake shop franchise), while the other assessed market viability for TOC Digital’s growth into new cities.  
@@ -65,14 +73,6 @@ Built two interactive dashboards for Brazilian clients to support performance tr
 **[GitHub Repo](https://github.com/mateusparolingomes/airline-on-time-performance-analysis)**  
 Analyzed flight delay trends across major U.S. airlines (2023–2024) to identify patterns in aircraft age, time of day, and weather-related issues. Combined SQL queries and Power BI dashboards to deliver actionable insights and recommendations for improving airline efficiency.  
 **Tools:** Power BI, SQL, Excel, FAA Data, Data Modeling
-
----
-
-### 📈 Investment Portfolio Analysis (Tableau)
-**[GitHub Repo](https://github.com/mateusparolingomes/investment-portfolio-analysis-tableau)**  
-**[Tableau Dashboard](https://public.tableau.com/app/profile/mateus.gomes5214/viz/A1FinalDashboard/Dashboard)**  
-Analyzed a 25-month investment portfolio using SQL and Tableau. Assessed risk-return profiles, asset class allocation, historical performance, and top/bottom tickers. Delivered strategic insights to rebalance high-risk assets and diversify holdings based on financial theory.  
-**Tools:** Tableau, SQL, Data Modeling, Portfolio Theory
 
 ---
 
