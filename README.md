@@ -40,6 +40,13 @@ Currently pursuing my **Master’s in Business Analytics** at Hult International
 
 ## 🚀 Featured Projects
 
+### 💸 Personal Expense Dashboard (Power BI)
+**[GitHub Repo](https://github.com/mateusparolingomes/personal-expense-dashboard-powerbi)**  
+Designed a dynamic dashboard to monitor personal living expenses in Boston. Built using simulated data modeled after real monthly spending tracked in Excel. Provides breakdowns by category, time period, and financial goals to support budgeting and financial awareness.  
+**Tools:** Power BI, Excel, Data Modeling, DAX
+
+---
+
 ### 🌐 Global Insights from Gapminder (R)
 **[GitHub Repo](https://github.com/mateusparolingomes/gapminder-global-insights-r)**  
 Analyzed global health and economic development over time using the Gapminder dataset. Created histograms, ridge plots, and violin-box combos to visualize GDP per capita and life expectancy, highlighting regional disparities and trends from 1952 to 2007.  
