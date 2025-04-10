@@ -83,7 +83,7 @@ Built two interactive dashboards for Brazilian clients to support performance tr
 
 ---
 
-🌍 Global Happiness Trends Dashboard (Power BI)
+### 🌍 Global Happiness Trends Dashboard (Power BI)
 
 [GitHub Repo](https://github.com/mateusparolingomes/global-happiness-trends)  
 Analyzed worldwide happiness scores and socioeconomic indicators from 2015 to 2023 using a unified dataset and interactive Power BI dashboard. Highlighted country-level trends, year-over-year shifts, and key correlations (e.g., GDP per capita, life expectancy, and freedom of choice). Delivered actionable insights on the social drivers of happiness, enabling data-backed storytelling for policy and well-being strategies.
