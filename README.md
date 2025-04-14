@@ -47,10 +47,10 @@ Designed a dynamic dashboard to monitor personal living expenses in Boston. Buil
 
 ---
 
-### 🏘️ Real Estate Price Analysis (Python)
-**[GitHub Repo](https://github.com/mateusparolingomes/real-estate-price-analysis-python)**  
-Performed exploratory data analysis on Taiwan real estate transactions to uncover trends and correlations in housing prices. Analyzed relationships between price and variables such as distance to MRT station, house age, and number of stores.  
-**Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
+### 🤖 Seoul Bike Demand ML Classifier (Machine Learning – Python)
+**[GitHub Repo](https://github.com/mateusparolingomes/seoul-bike-demand-ml-classifier)**  
+Applied supervised machine learning models to classify high vs low demand days for bike rentals in Seoul, based on environmental and operational data. Built, tuned, and compared performance of models including Decision Trees, Bagging, Boosting, XGBoost, and Neural Networks. Delivered actionable insights for business planning and demand forecasting.  
+**Tools:** Python, Scikit-learn, XGBoost, Neural Network, Data Visualization, Jupyter Notebook
 
 ---
 
@@ -76,12 +76,10 @@ Analyzed global health and economic development over time using the Gapminder da
 
 ---
 
-
-### 🤖 Seoul Bike Demand ML Classifier (Machine Learning – Python)
-**[GitHub Repo](https://github.com/mateusparolingomes/seoul-bike-demand-ml-classifier)**  
-Applied supervised machine learning models to classify high vs low demand days for bike rentals in Seoul, based on environmental and operational data. Built, tuned, and compared performance of models including Decision Trees, Bagging, Boosting, XGBoost, and Neural Networks. Delivered actionable insights for business planning and demand forecasting.  
-**Tools:** Python, Scikit-learn, XGBoost, Neural Network, Data Visualization, Jupyter Notebook
-
+### 🏘️ Real Estate Price Analysis (Python)
+**[GitHub Repo](https://github.com/mateusparolingomes/real-estate-price-analysis-python)**  
+Performed exploratory data analysis on Taiwan real estate transactions to uncover trends and correlations in housing prices. Analyzed relationships between price and variables such as distance to MRT station, house age, and number of stores.  
+**Tools:** Python, Pandas, Matplotlib, Seaborn, Jupyter Notebook
 
 ---
 
