@@ -62,13 +62,6 @@ Analyzed a 25-month investment portfolio using SQL and Tableau. Assessed risk-re
 
 ---
 
-### ✈️ Airline On-Time Performance Analysis (SQL & Power BI)
-**[GitHub Repo](https://github.com/mateusparolingomes/airline-on-time-performance-analysis)**  
-Analyzed flight delay trends across major U.S. airlines (2023–2024) to identify patterns in aircraft age, time of day, and weather-related issues. Combined SQL queries and Power BI dashboards to deliver actionable insights and recommendations for improving airline efficiency.  
-**Tools:** Power BI, SQL, Excel, FAA Data, Data Modeling
-
----
-
 ### 🌐 Global Insights from Gapminder (R)
 **[GitHub Repo](https://github.com/mateusparolingomes/gapminder-global-insights-r)**  
 Analyzed global health and economic development over time using the Gapminder dataset. Created histograms, ridge plots, and violin-box combos to visualize GDP per capita and life expectancy, highlighting regional disparities and trends from 1952 to 2007.  
@@ -88,6 +81,13 @@ Performed exploratory data analysis on Taiwan real estate transactions to uncove
 Analyzed worldwide happiness scores and socioeconomic indicators from 2015 to 2023 using a unified dataset and interactive Power BI dashboard. Highlighted country-level trends, year-over-year shifts, and key correlations (e.g., GDP per capita, life expectancy, and freedom of choice). Delivered actionable insights on the social drivers of happiness, enabling data-backed storytelling for policy and well-being strategies.
 
 **Tools:** Power BI, Data Cleaning, KPI Design, Correlation Analysis, Visual Storytelling
+
+---
+
+### ✈️ Airline On-Time Performance Analysis (SQL & Power BI)
+**[GitHub Repo](https://github.com/mateusparolingomes/airline-on-time-performance-analysis)**  
+Analyzed flight delay trends across major U.S. airlines (2023–2024) to identify patterns in aircraft age, time of day, and weather-related issues. Combined SQL queries and Power BI dashboards to deliver actionable insights and recommendations for improving airline efficiency.  
+**Tools:** Power BI, SQL, Excel, FAA Data, Data Modeling
 
 ---
 
