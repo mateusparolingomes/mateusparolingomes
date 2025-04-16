@@ -47,10 +47,10 @@ Designed a dynamic dashboard to monitor personal living expenses in Boston. Buil
 
 ---
 
-### 🤖 Seoul Bike Demand ML Classifier (Machine Learning – Python)
-**[GitHub Repo](https://github.com/mateusparolingomes/seoul-bike-demand-ml-classifier)**  
-Applied supervised machine learning models to classify high vs low demand days for bike rentals in Seoul, based on environmental and operational data. Built, tuned, and compared performance of models including Decision Trees, Bagging, Boosting, XGBoost, and Neural Networks. Delivered actionable insights for business planning and demand forecasting.  
-**Tools:** Python, Scikit-learn, XGBoost, Neural Network, Data Visualization, Jupyter Notebook
+### 🏨 Hotel Cancellation Prediction (Machine Learning – Python)
+**[GitHub Repo](https://github.com/mateusparolingomes/hotel-cancellation-prediction-ml)**  
+Built a machine learning pipeline to classify hotel booking cancellations using real-world reservation data. Applied and tuned Decision Trees, XGBoost, Neural Network, and ensemble models to extract actionable insights for revenue optimization and operational efficiency.  
+**Tools:** Python, Scikit-learn, XGBoost, Neural Network, GridSearchCV, Confusion Matrix, Jupyter Notebook
 
 ---
 
