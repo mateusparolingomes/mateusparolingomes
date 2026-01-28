@@ -35,6 +35,7 @@ Currently working as a **BI Analyst** at [ATSG.Inc](https://www.atsginc.com/).
 `Portuguese`    
 `Italian`    
 `French`
+`Spanish`
 
 ---
 
