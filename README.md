@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Mateus Parolin Gomes
 
 🚀 Data Analyst | Data Engineer  
-📍 Boston, MA  
-🎯 Open to work across the U.S. in **Data Analyst** or **Data Engineer** roles  
+📍 Cincinnati, OH  
+✈️ BI Analyst in ATSG.Inc
 📫 mateus.parolingomes@gmail.com | [LinkedIn](https://www.linkedin.com/in/mateusparolingomes/) | [GitHub](https://github.com/mateusparolingomes)  
 
 ---
@@ -11,7 +11,7 @@
 
 I am a Data Analyst (certified by IBM) with 5 years of experience leveraging analytics, data engineering, and visualization tools to support business decision-making. Proven ability to optimize data workflows, automate reporting, and deliver data-driven insights for multinational organizations.
 
-Currently pursuing my **Master’s in Business Analytics** at Hult International Business School in Boston, I’m seeking full-time opportunities in **Data Analytics** or **Data Engineering** across the U.S.
+Currently working as a **BI Analyst** in [ATSG.Inc]([url](https://www.atsginc.com/)).
 
 ---
 
