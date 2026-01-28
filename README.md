@@ -11,14 +11,14 @@
 
 I am a Data Analyst (certified by IBM) with 5 years of experience leveraging analytics, data engineering, and visualization tools to support business decision-making. Proven ability to optimize data workflows, automate reporting, and deliver data-driven insights for multinational organizations.
 
-Currently working as a **BI Analyst** in [ATSG.Inc]([url](https://www.atsginc.com/)).
+Currently working as a **BI Analyst** in [ATSG.Inc](https://www.atsginc.com/).
 
 ---
 
 ## 🧠 Technical Skills
 
 **Languages & Tools:**  
-`Python` · `SQL` · `R` · `Power BI` · `Tableau` · `Alteryx`  
+ `Power BI` · `Fabric` · `Python` · `SQL` · `R` · `Tableau` · `Alteryx`  
 `Snowflake` · `SAP` · `GitHub` · `HTML` · `Dataiku` · `Azure` · `AWS` · `Excel VBA`
 
 **Libraries & Frameworks:**  
